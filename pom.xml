@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.antelope</groupId>
-    <artifactId>java-sdk</artifactId>
+    <groupId>io.github.mcicu</groupId>
+    <artifactId>antelope-java-sdk</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>antelope-java-sdk</name>
+    <name>Antelope Java SDK</name>
     <description>Java SDK for Antelope protocol</description>
 
     <properties>
